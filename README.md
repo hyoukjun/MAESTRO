@@ -1,4 +1,4 @@
-# Announcement about our new repository 
+# Announcement about new repository 
 Files in this repository is deprecated, and MAESTRO source code is now available in a new repository: https://github.com/georgia-tech-synergy-lab/MAESTRO
 
 # MAESTRO
