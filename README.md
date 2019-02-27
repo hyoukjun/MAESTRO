@@ -1,5 +1,5 @@
 # Announcement about new repository 
-Files in this repository is deprecated, and MAESTRO source code is now available in a new repository: https://github.com/georgia-tech-synergy-lab/MAESTRO
+Files in this repository are deprecated, and MAESTRO source code is now available in a new repository: https://github.com/georgia-tech-synergy-lab/MAESTRO
 
 # MAESTRO
 MAESTRO is a cost-benefit model to evaluate dataflows over a general accelerator architecture. It receives dataflow and architecture description and provides buffer access counts, which can be integrated with energy models to produce energy consumption, roofline performance, which is throughput with full compute unit utilization, buffer size requirement, network-on-chip bandwidth requirement, and so on. We are currently validating the model. Until it finishes, we only distribute binary executables. For usages, please see our tutorial slides.
